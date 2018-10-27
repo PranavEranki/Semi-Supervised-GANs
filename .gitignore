@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+torch_data/
+*.pyc
+runs/
+data/
+.DS_Store
+scratch-space/.DS_Store
